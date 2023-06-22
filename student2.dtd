@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!ELEMENT student (firstname,lastname,role,dept,fees)> 
+<!ELEMENT firstname (#PCDATA)> 
+<!ELEMENT lastname (#PCDATA)> 
+<!ELEMENT role (#PCDATA)> 
+<!ELEMENT dept (#PCDATA)> 
+<!ELEMENT fees (#PCDATA)>
